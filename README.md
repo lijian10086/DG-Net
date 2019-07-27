@@ -172,3 +172,6 @@ Please cite this paper if it helps your research:
 
 ## Related Work
 Other GAN-based methods compared in the paper include [LSGAN](https://github.com/layumi/DCGAN-pytorch), [FDGAN](https://github.com/layumi/FD-GAN) and [PG2GAN](https://github.com/charliememory/Pose-Guided-Person-Image-Generation). We forked the code and made some changes for evaluatation, thank the authors for their great work. We would also like to thank to the great projects in [person re-id baseline](https://github.com/layumi/Person_reID_baseline_pytorch), [MUNIT](https://github.com/NVlabs/MUNIT) and [DRIT](https://github.com/HsinYingLee/DRIT).
+
+## 论文分析
+1、https://zhuanlan.zhihu.com/p/66408913  NVIDIA/悉尼科技大学/澳洲国立大学新作解读：用GAN生成高质量行人图像，辅助行人重识别
